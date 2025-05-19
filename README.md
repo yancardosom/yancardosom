@@ -1,9 +1,8 @@
-<h1 align="center">Olá 👋, sou Yan Cardoso Magalhães</h1>
-<h3 align="center">Um desenvolvedor backend apaixonado do Brasil</h3>
+<h1 align="center">Olá, sou Yan!</h1>
+<h3 align="center">Um desenvolvedor apaixonado do Brasil</h3>
 
-- 📫 Como entrar em contato
-
-comigo: **yancelltec@outlook.com** <h3 align="left">Conecte-se comigo:</h3>
+📫 Como entrar em contato comigo: **yancelltec@outlook.com**
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yan cardoso magalhães" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan cardoso magalhães" height="30" width="40" /></a>
 <a href="https://instagram.com/yancelltec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yancelltec" height="30" width="40" /></a>
