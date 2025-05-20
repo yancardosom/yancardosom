@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Yan!</h1>
-<h3 align="center">Desenvolvedor front-end apaixonado pelo que faz </h3>
+<h3 align="center">Desenvolvedor front-end apaixonado pelo que faz</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yancardosom&label=Profile%20views&color=0e75b6&style=flat" alt="yancardosom" />
@@ -7,13 +7,13 @@
 
 ---
 
-###  Sobre mim
+### 👨‍💻 Sobre mim
 
-Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gosto de trabalhar com Python, automações e infraestrutura. Atualmente estou focado no desenvolvimento de soluções digitais para o projeto **YanCell Assistec**.
+Sou um desenvolvedor front-end apaixonado por resolver problemas com código. Gosto de trabalhar com interfaces intuitivas, responsivas e modernas. Atualmente estou focado no desenvolvimento de soluções digitais para o projeto **YanCell Assistec**.
 
 - 🔭 Projeto atual: [YanCell Assistec](https://github.com/yancardosom/yancardosom/issues/2)  
 - 📫 Email: **yancelltec@outlook.com**  
-- 💬 Pergunte-me sobre: Python, Frontend, APIs, automações...
+- 💬 Pergunte-me sobre: HTML, CSS, JavaScript, Frontend, Design Responsivo...
 
 ---
 
@@ -30,12 +30,9 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
 
 ---
 
-###  Tecnologias e Ferramentas
+### 🎨 Tecnologias e Ferramentas (Frontend)
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -45,21 +42,6 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
@@ -67,7 +49,7 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
 
 ---
 
-### Troféus do GitHub
+### 🏆 Troféus do GitHub
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -86,4 +68,3 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yancardosom&theme=dark" alt="GitHub Streak" />
 </p>
-
