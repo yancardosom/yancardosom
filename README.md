@@ -79,15 +79,11 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yancardosom&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yancardosom&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yancardosom&" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yancardosom&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=yancardosom&show_icons=true&locale=en&theme=github_dark" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yancardosom&theme=dark" alt="GitHub Streak" />
 </p>
 
