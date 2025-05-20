@@ -20,9 +20,6 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://twitter.com/souapenasyan" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/souapenasyan?logo=twitter&style=for-the-badge" alt="souapenasyan" />
-  </a>
   <a href="https://www.linkedin.com/in/yan-cardoso-magalhães-619076204/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
