@@ -13,7 +13,7 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Gost
 
 - 🔭 Projeto atual: [YanCell Assistec](https://github.com/yancardosom/yancardosom/issues/2)  
 - 📫 Email: **yancelltec@outlook.com**  
-- 💬 Pergunte-me sobre: Python, Backend, APIs, automações...
+- 💬 Pergunte-me sobre: Python, Frontend, APIs, automações...
 
 ---
 
