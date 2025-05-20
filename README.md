@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Yan!</h1>
-<h3 align="center">Desenvolvedor Frontend apaixonado pelo que faz </h3>
+<h3 align="center">Desenvolvedor front-end apaixonado pelo que faz </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yancardosom&label=Profile%20views&color=0e75b6&style=flat" alt="yancardosom" />
